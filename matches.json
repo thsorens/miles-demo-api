@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "hometeam": 1,
+    "awayteam": 2,
+    "stadium": "Winners stadium"
+  },
+  {
+    "id": 2,
+    "hometeam": 2,
+    "awayteam": 1,
+    "stadium": "Loser stadium"
+  },
+  {
+    "id": 3,
+    "hometeam": 1,
+    "awayteam": 2,
+    "stadium": "Winners stadium"
+  },
+  {
+    "id": 4,
+    "hometeam": 2,
+    "awayteam": 1,
+    "stadium": "Loser stadium"
+  },
+  {
+    "id": 5,
+    "hometeam": 1,
+    "awayteam": 2,
+    "stadium": "Winners stadium"
+  }
+]
