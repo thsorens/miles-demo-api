@@ -17,11 +17,7 @@ app.use(
   })
 );
 
-const options = {
-  origin: ["http://locahost:3000"]
-};
-
-app.use(cors(options));
+app.use(cors());
 
 app.disable("x-powered-by");
 
