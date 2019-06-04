@@ -18,7 +18,7 @@ app.use(
 );
 
 const options = {
-  origin: ["*"]
+  origin: ["http://locahost:3000"]
 };
 
 app.use(cors(options));
